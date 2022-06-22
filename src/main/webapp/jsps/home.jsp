@@ -39,7 +39,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		mylandmarktech@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
-	</span>
+	</span> 
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
