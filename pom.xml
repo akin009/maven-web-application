@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.202.244.66:4000/repository/paypal-snapshot//</url>
+	      <url>http://3.83.215.22:4000/content/repositories/snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
